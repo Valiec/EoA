@@ -26,8 +26,6 @@ c9fc1a35-6ac1-4943-aa8b-152d94874e2d
 9d8b2b0b-43c4-4abd-9d07-eee7e4dc2d19
 #Mythrandir01
 45255b67-6bfd-434c-8fed-e1f56e18da6a
-#Supersam_792
-9777aded-d971-4aab-9160-ec0e8ea31a0b
 #itz_v4celix
 e5c1162a-9509-4358-9caf-fb9bfe1d7c01
 #MyrFlora
